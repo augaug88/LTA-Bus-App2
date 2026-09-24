@@ -1,0 +1,6 @@
+{
+  "name": "Live SG Bus Arrival",
+  "description": "Live Singapore bus arrival timings by stop code, powered by LTA DataMall with 20-second automatic refresh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
